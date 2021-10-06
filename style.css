@@ -98,6 +98,9 @@ marquee p{ font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif}
   width: 36px;
   height: 36px;
   transition: 0.3s;}
+#header .profiel .social-links a i{
+  font-size:15px;
+}
 #header .profile .social-links a:hover {
   background: whitesmoke;
   color: rgb(17, 16, 16);
