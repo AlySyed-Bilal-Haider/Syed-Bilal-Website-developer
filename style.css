@@ -432,6 +432,7 @@ section {
 }
 .portfolio .card{
   margin-top: 10px;
+  cursor:pointer;
 }
 
 .portfolio .card img{
